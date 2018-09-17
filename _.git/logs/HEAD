@@ -1,0 +1,111 @@
+0000000000000000000000000000000000000000 9ae709fe94c859cf2d7355a2ab3851da35f27ce2 robertocapah <roberto_capah@yahoo.com> 1498029125 +0700	commit (initial): Initial commit
+9ae709fe94c859cf2d7355a2ab3851da35f27ce2 044865f2753005e3ab7f0caf3d4cd499e6c38c68 robertocapah <roberto_capah@yahoo.com> 1498037147 +0700	commit: Run normally
+044865f2753005e3ab7f0caf3d4cd499e6c38c68 1ce612824024993a9db9a21962cb4bad4e6bb4f2 robertocapah <roberto_capah@yahoo.com> 1498104645 +0700	pull --progress --no-stat -v --progress origin master: Fast-forward
+1ce612824024993a9db9a21962cb4bad4e6bb4f2 1df0999ce07ab37b9cc44d28b47bc877ab7fe57d robertocapah <roberto_capah@yahoo.com> 1499055233 +0700	commit: after edit mConfig
+1df0999ce07ab37b9cc44d28b47bc877ab7fe57d f2a5bcadcd0d27d9b116e85e82e9637d23ee3b0a robertocapah <roberto_capah@yahoo.com> 1499219402 +0700	commit: sudah bisa login
+f2a5bcadcd0d27d9b116e85e82e9637d23ee3b0a 17a1ea074f95b4abf36430ef06fffc000e304fcc robertocapah <roberto_capah@yahoo.com> 1499221076 +0700	commit: fixing error
+17a1ea074f95b4abf36430ef06fffc000e304fcc 8530c5c03d4c1a5f269825f6e45314ed4184d7fe robertocapah <roberto_capah@yahoo.com> 1499321910 +0700	commit: bisa absen
+8530c5c03d4c1a5f269825f6e45314ed4184d7fe e373c0dc4483cb47ea44533001aea3eaeb08c0e8 robertocapah <roberto_capah@yahoo.com> 1499322544 +0700	commit: library
+e373c0dc4483cb47ea44533001aea3eaeb08c0e8 d719cc8275934dfb70269f3d8bcc4394a36b8a78 robertocapah <roberto_capah@yahoo.com> 1499322546 +0700	commit (amend): library
+d719cc8275934dfb70269f3d8bcc4394a36b8a78 75ed71e93986300a06a34ecc9ea0aaa0086eaf64 robertocapah <roberto_capah@yahoo.com> 1499322548 +0700	commit (amend): library
+75ed71e93986300a06a34ecc9ea0aaa0086eaf64 83146c3ff69800fadc78883af029a933df75b57e robertocapah <roberto_capah@yahoo.com> 1499322551 +0700	commit (amend): library
+83146c3ff69800fadc78883af029a933df75b57e 65db416e5d424f9151d069c4c24f1e5567206c99 robertocapah <roberto_capah@yahoo.com> 1499322553 +0700	commit (amend): library
+65db416e5d424f9151d069c4c24f1e5567206c99 bfbc2fb87ff4218cf5cfef848da084259e665ca0 robertocapah <roberto_capah@yahoo.com> 1499322555 +0700	commit (amend): library
+bfbc2fb87ff4218cf5cfef848da084259e665ca0 cd22fe6999a23fe4ce63507c417faf3ef66ed4b0 robertocapah <roberto_capah@yahoo.com> 1499322557 +0700	commit (amend): library
+cd22fe6999a23fe4ce63507c417faf3ef66ed4b0 cd473da6d882c5ab57d66ba5e72627441ac7ad4b robertocapah <roberto_capah@yahoo.com> 1499322559 +0700	commit (amend): library
+cd473da6d882c5ab57d66ba5e72627441ac7ad4b 02465a7981d9cb19f164eedbe39fb33eff67208f robertocapah <roberto_capah@yahoo.com> 1499322561 +0700	commit (amend): library
+02465a7981d9cb19f164eedbe39fb33eff67208f 853d8fb9822084de00bc20f11b684e41d132cf26 robertocapah <roberto_capah@yahoo.com> 1499322564 +0700	commit (amend): library
+853d8fb9822084de00bc20f11b684e41d132cf26 7786a738a6dd38e600ff7d8c29050b2786a0f479 robertocapah <roberto_capah@yahoo.com> 1499322566 +0700	commit (amend): library
+7786a738a6dd38e600ff7d8c29050b2786a0f479 57aa5429f1df3305a0e6d01855a5822c9257acd0 robertocapah <roberto_capah@yahoo.com> 1499322569 +0700	commit (amend): library
+57aa5429f1df3305a0e6d01855a5822c9257acd0 551db585bf4740d864a9a1f883b8c4c72f3f1dd8 robertocapah <roberto_capah@yahoo.com> 1499322571 +0700	commit (amend): library
+551db585bf4740d864a9a1f883b8c4c72f3f1dd8 d9d9af491d45766c7832fae840b7836bf30e554d robertocapah <roberto_capah@yahoo.com> 1499322574 +0700	commit (amend): library
+d9d9af491d45766c7832fae840b7836bf30e554d 10bb45670982aca2a0ce7e07cabba7c63c961379 robertocapah <roberto_capah@yahoo.com> 1499322577 +0700	commit (amend): library
+10bb45670982aca2a0ce7e07cabba7c63c961379 17796e6dbb8be1ded5c703938fffd0b6608e50fb robertocapah <roberto_capah@yahoo.com> 1499322580 +0700	commit (amend): library
+17796e6dbb8be1ded5c703938fffd0b6608e50fb 10663b5af72043783297044755fe0232ed6432af robertocapah <roberto_capah@yahoo.com> 1499322582 +0700	commit (amend): library
+10663b5af72043783297044755fe0232ed6432af 920b1b2f1f6536fce3b6a5d7cde05ff2db0560e7 robertocapah <roberto_capah@yahoo.com> 1499322585 +0700	commit (amend): library
+920b1b2f1f6536fce3b6a5d7cde05ff2db0560e7 a6fe6e9f2d33fe6abe35e5bf943dd29be93bf841 robertocapah <roberto_capah@yahoo.com> 1499322588 +0700	commit (amend): library
+a6fe6e9f2d33fe6abe35e5bf943dd29be93bf841 c47a58d4de5b06a614a7642ea1989d589b6ee716 robertocapah <roberto_capah@yahoo.com> 1499322591 +0700	commit (amend): library
+c47a58d4de5b06a614a7642ea1989d589b6ee716 d77d1a6030583711bbae6d3a787d0b3d3c234485 robertocapah <roberto_capah@yahoo.com> 1499322594 +0700	commit (amend): library
+d77d1a6030583711bbae6d3a787d0b3d3c234485 7ccf624fa5f2277bc9f81de8b91c4f2c660d9791 robertocapah <roberto_capah@yahoo.com> 1499322597 +0700	commit (amend): library
+7ccf624fa5f2277bc9f81de8b91c4f2c660d9791 df701408ed8b9aabbd75582f28555f3cdb178ffd robertocapah <roberto_capah@yahoo.com> 1499322600 +0700	commit (amend): library
+df701408ed8b9aabbd75582f28555f3cdb178ffd 02b89593c57b82d3c04d8a43b63a67e1e9cc7034 robertocapah <roberto_capah@yahoo.com> 1499322604 +0700	commit (amend): library
+02b89593c57b82d3c04d8a43b63a67e1e9cc7034 a9fb2029c25ef21f91a6fec2cb56f529a4fecf54 robertocapah <roberto_capah@yahoo.com> 1499322607 +0700	commit (amend): library
+a9fb2029c25ef21f91a6fec2cb56f529a4fecf54 d515b5f1bc3ce446aa656b954da39e760264e2c4 robertocapah <roberto_capah@yahoo.com> 1499322610 +0700	commit (amend): library
+d515b5f1bc3ce446aa656b954da39e760264e2c4 7224dc0234351afed28f3e6c10fd887de3fced1d robertocapah <roberto_capah@yahoo.com> 1499322613 +0700	commit (amend): library
+7224dc0234351afed28f3e6c10fd887de3fced1d 94cec7e5a5decf9444b6872e07fc95915c1c4dee robertocapah <roberto_capah@yahoo.com> 1499322617 +0700	commit (amend): library
+94cec7e5a5decf9444b6872e07fc95915c1c4dee 251b492cdff3ae9d594b9e769e4e57c0957d2383 robertocapah <roberto_capah@yahoo.com> 1499322620 +0700	commit (amend): library
+251b492cdff3ae9d594b9e769e4e57c0957d2383 1c3b68d68668b562d10d5fabfa27874410be0a27 robertocapah <roberto_capah@yahoo.com> 1499322624 +0700	commit (amend): library
+1c3b68d68668b562d10d5fabfa27874410be0a27 3e3386494c872a450af9d034d777e250439ae292 robertocapah <roberto_capah@yahoo.com> 1499322627 +0700	commit (amend): library
+3e3386494c872a450af9d034d777e250439ae292 41f7af2be906fb63d95b8519555b993613b9eca3 robertocapah <roberto_capah@yahoo.com> 1499322630 +0700	commit (amend): library
+41f7af2be906fb63d95b8519555b993613b9eca3 a062b15fdbf1e63b2cce9e6ab5927c0056a51ddd robertocapah <roberto_capah@yahoo.com> 1499322634 +0700	commit (amend): library
+a062b15fdbf1e63b2cce9e6ab5927c0056a51ddd 620f91d1a4fb894fafb7163215b667468b7c757b robertocapah <roberto_capah@yahoo.com> 1499322639 +0700	commit (amend): library
+620f91d1a4fb894fafb7163215b667468b7c757b 6677dfbd8d79735c8f9494893d7ab9405bb3dfa1 robertocapah <roberto_capah@yahoo.com> 1499322643 +0700	commit (amend): library
+6677dfbd8d79735c8f9494893d7ab9405bb3dfa1 e670473a67943a24fdce79b42d1590dd75274c1b robertocapah <roberto_capah@yahoo.com> 1499322647 +0700	commit (amend): library
+e670473a67943a24fdce79b42d1590dd75274c1b 08b3fffc08833790169b1cf08b40c62ff72b5a61 robertocapah <roberto_capah@yahoo.com> 1499322651 +0700	commit (amend): library
+08b3fffc08833790169b1cf08b40c62ff72b5a61 825b323bc3f1558f5a9e8a323cd8305d80e6431f robertocapah <roberto_capah@yahoo.com> 1499322656 +0700	commit (amend): library
+825b323bc3f1558f5a9e8a323cd8305d80e6431f 102694648be796d89abbd4443e83a136167b8acf robertocapah <roberto_capah@yahoo.com> 1499322660 +0700	commit (amend): library
+102694648be796d89abbd4443e83a136167b8acf 4e0b3a79a91d419dc433129e7da89529028421b1 robertocapah <roberto_capah@yahoo.com> 1499322664 +0700	commit (amend): library
+4e0b3a79a91d419dc433129e7da89529028421b1 5eaf302e63f7fca174b7de8631a35c9c98d89e46 robertocapah <roberto_capah@yahoo.com> 1499322669 +0700	commit (amend): library
+5eaf302e63f7fca174b7de8631a35c9c98d89e46 8298dbfba7fe0cf917e3cba779f10f06f965a17d robertocapah <roberto_capah@yahoo.com> 1499322674 +0700	commit (amend): library
+8298dbfba7fe0cf917e3cba779f10f06f965a17d 5fde56d8d2eacb9b88fe236d8897e0d8685110ef robertocapah <roberto_capah@yahoo.com> 1499322681 +0700	commit (amend): library
+5fde56d8d2eacb9b88fe236d8897e0d8685110ef 7658cc7594063efd535bf9f5d54487aaa4333936 robertocapah <roberto_capah@yahoo.com> 1499322687 +0700	commit (amend): library
+7658cc7594063efd535bf9f5d54487aaa4333936 ab2ab66684afca31b5f53fefa406d72adc8e43d1 robertocapah <roberto_capah@yahoo.com> 1499322692 +0700	commit (amend): library
+ab2ab66684afca31b5f53fefa406d72adc8e43d1 49035ca160be7e22a3ac24c480b79bfb96b5a833 robertocapah <roberto_capah@yahoo.com> 1499322696 +0700	commit (amend): library
+49035ca160be7e22a3ac24c480b79bfb96b5a833 6031c97afb6f4bfd27433f9977c3bd45610db5b4 robertocapah <roberto_capah@yahoo.com> 1499322700 +0700	commit (amend): library
+6031c97afb6f4bfd27433f9977c3bd45610db5b4 326766a0a44ce38dd5d16eadcb4ba9ec8cf85a6e robertocapah <roberto_capah@yahoo.com> 1499322704 +0700	commit (amend): library
+326766a0a44ce38dd5d16eadcb4ba9ec8cf85a6e 0259d8c0d55c8df58eae8eaf3fe13675a9df2ac9 robertocapah <roberto_capah@yahoo.com> 1499322709 +0700	commit (amend): library
+0259d8c0d55c8df58eae8eaf3fe13675a9df2ac9 6a9957a9db0608285b591ef03d1e1dd983382a46 robertocapah <roberto_capah@yahoo.com> 1499322713 +0700	commit (amend): library
+6a9957a9db0608285b591ef03d1e1dd983382a46 43534c8f93d1ef35cfa2d6f95310e76309eb1321 robertocapah <roberto_capah@yahoo.com> 1499322717 +0700	commit (amend): library
+43534c8f93d1ef35cfa2d6f95310e76309eb1321 74604b2e560dd1ba1196941601e64b7cc93c0381 robertocapah <roberto_capah@yahoo.com> 1499322722 +0700	commit (amend): library
+74604b2e560dd1ba1196941601e64b7cc93c0381 3f559de5c20b2373aaee59963171dc4173d9ed19 robertocapah <roberto_capah@yahoo.com> 1499322727 +0700	commit (amend): library
+3f559de5c20b2373aaee59963171dc4173d9ed19 b23ceeca9f3af47e2a71ea10a915c5f061c5a989 robertocapah <roberto_capah@yahoo.com> 1499322731 +0700	commit (amend): library
+b23ceeca9f3af47e2a71ea10a915c5f061c5a989 d8c40ea175874eff7c2042850f6f609662b6a5c3 robertocapah <roberto_capah@yahoo.com> 1499322738 +0700	commit (amend): library
+d8c40ea175874eff7c2042850f6f609662b6a5c3 6da53fe653cff4a16a449fe1d919a29a49e4244e robertocapah <roberto_capah@yahoo.com> 1499322744 +0700	commit (amend): library
+6da53fe653cff4a16a449fe1d919a29a49e4244e df7a47e54109cf402d1dc1f3700da6cd4df1a618 robertocapah <roberto_capah@yahoo.com> 1499322749 +0700	commit (amend): library
+df7a47e54109cf402d1dc1f3700da6cd4df1a618 d7397fa96ead8bf82380878489d5f325bdabd5ee robertocapah <roberto_capah@yahoo.com> 1499322755 +0700	commit (amend): library
+d7397fa96ead8bf82380878489d5f325bdabd5ee 854ef16c9d1f3dc817b58039fc2016079678d7e4 robertocapah <roberto_capah@yahoo.com> 1499322759 +0700	commit (amend): library
+854ef16c9d1f3dc817b58039fc2016079678d7e4 7e5086d7fcf9f691d5d044316c089ce8f7ec23a2 robertocapah <roberto_capah@yahoo.com> 1499322764 +0700	commit (amend): library
+7e5086d7fcf9f691d5d044316c089ce8f7ec23a2 0c4256e338d9651309b96471bb64206cc5c0fd52 robertocapah <roberto_capah@yahoo.com> 1499322770 +0700	commit (amend): library
+0c4256e338d9651309b96471bb64206cc5c0fd52 b79ea62a016673b93b56c1eb14fbce160f730352 robertocapah <roberto_capah@yahoo.com> 1499322774 +0700	commit (amend): library
+b79ea62a016673b93b56c1eb14fbce160f730352 a2fe6d13a702d1a9fa7b621966d469d47bd68780 robertocapah <roberto_capah@yahoo.com> 1499322779 +0700	commit (amend): library
+a2fe6d13a702d1a9fa7b621966d469d47bd68780 2094828aa27acd25f0b829e5db1d6fdc16893c23 robertocapah <roberto_capah@yahoo.com> 1499322784 +0700	commit (amend): library
+2094828aa27acd25f0b829e5db1d6fdc16893c23 155db490ad620ca2cba99048af7db93e99f45ee6 robertocapah <roberto_capah@yahoo.com> 1499322790 +0700	commit (amend): library
+155db490ad620ca2cba99048af7db93e99f45ee6 8e9cf06eef20698bf18d2750538e84508a993a3c robertocapah <roberto_capah@yahoo.com> 1499913164 +0700	commit: penambahan tracking location, dan perbaikan perbaikan
+8e9cf06eef20698bf18d2750538e84508a993a3c c0c838ab0df950793db748d3565e86074b7684a6 robertocapah <roberto_capah@yahoo.com> 1500620635 +0700	commit: Run normally
+c0c838ab0df950793db748d3565e86074b7684a6 cf666cb01ee8bd6bf3450bc42d4dd719f9fad8a8 robertocapah <roberto_capah@yahoo.com> 1500621005 +0700	commit: Run normally
+cf666cb01ee8bd6bf3450bc42d4dd719f9fad8a8 ace0046a1a5a903d2e6954e265eebdcc2bcda908 robertocapah <roberto_capah@yahoo.com> 1500622181 +0700	commit: Run normally
+ace0046a1a5a903d2e6954e265eebdcc2bcda908 83f1ebe9a58bba573bf0547a548cbb9cfbec6c01 robertocapah <roberto_capah@yahoo.com> 1500627946 +0700	pull --progress --no-stat -v --progress origin master: Fast-forward
+83f1ebe9a58bba573bf0547a548cbb9cfbec6c01 ec8e7a902290bb2e980b437989e588d862afb1cd robertocapah <roberto_capah@yahoo.com> 1500956795 +0700	commit: 90%
+ec8e7a902290bb2e980b437989e588d862afb1cd 3cea685a099d00f969462344ff71a0553c006957 robertocapah <roberto_capah@yahoo.com> 1500968593 +0700	commit: fixing bug camera for marsmallow
+3cea685a099d00f969462344ff71a0553c006957 cd8c487a182f40db01ef177781d221a5acd5539a robertocapah <roberto_capah@yahoo.com> 1501219747 +0700	commit: perbaikan perbaikan
+cd8c487a182f40db01ef177781d221a5acd5539a 9018e7c59b8f18b51ff1da7e3a2208141d59c6e4 robertocapah <roberto_capah@yahoo.com> 1501574886 +0700	commit: perbaikan perbaikan
+9018e7c59b8f18b51ff1da7e3a2208141d59c6e4 d4b401ea667afe27f5a57095dff0b41cbd14be38 robertocapah <roberto_capah@yahoo.com> 1501660731 +0700	commit: perbaikan service timer ke handler
+d4b401ea667afe27f5a57095dff0b41cbd14be38 84c5625ce840953e7b06b141f927fd7b8a8a601b robertocapah <roberto_capah@yahoo.com> 1506770801 +0700	commit: perubahan qr code scanner
+84c5625ce840953e7b06b141f927fd7b8a8a601b d27c96650d64bb844453a27625ec77ba5a91d4e1 robertocapah <roberto_capah@yahoo.com> 1511100461 +0700	commit: push last data
+d27c96650d64bb844453a27625ec77ba5a91d4e1 0b6ca53321aa0f132d0babbc321e86e43251e1ef robertocapah <roberto_capah@yahoo.com> 1512036735 +0700	commit: perubahan di tampilan db dan reporting
+0b6ca53321aa0f132d0babbc321e86e43251e1ef 1fd2aee10407643f9236fc107e00ee96c5f8c95f robertocapah <roberto_capah@yahoo.com> 1512387801 +0700	commit: Perubahan di tampilan dan report
+1fd2aee10407643f9236fc107e00ee96c5f8c95f 0d49cf8df9e5a4a14dddab1ee26586757f0e8fc6 robertocapah <roberto_capah@yahoo.com> 1512439948 +0700	commit: check version ready
+0d49cf8df9e5a4a14dddab1ee26586757f0e8fc6 7a6ece924c5820b4d991810e5afe095b91c94968 robertocapah <roberto_capah@yahoo.com> 1517914176 +0700	commit: Latest Backup
+7a6ece924c5820b4d991810e5afe095b91c94968 bb0295cf03adf0cfd59fc5b4b0462866862c57ca robertocapah <roberto_capah@yahoo.com> 1517914181 +0700	commit (amend): Latest Backup
+bb0295cf03adf0cfd59fc5b4b0462866862c57ca f7995295c9f788d879a8149fbba9eeaa3288e5ce robertocapah <roberto_capah@yahoo.com> 1517914184 +0700	commit (amend): Latest Backup
+f7995295c9f788d879a8149fbba9eeaa3288e5ce e91cd1a8a385c6422e5a7e88762205a21f645c3a robertocapah <roberto_capah@yahoo.com> 1517914188 +0700	commit (amend): Latest Backup
+e91cd1a8a385c6422e5a7e88762205a21f645c3a 6a2b14078b363d36b86b288ac6ef747f5a60750e robertocapah <roberto_capah@yahoo.com> 1517914190 +0700	commit (amend): Latest Backup
+6a2b14078b363d36b86b288ac6ef747f5a60750e 112afe85653f376c54db789628e32bfa72356d82 robertocapah <roberto_capah@yahoo.com> 1517914194 +0700	commit (amend): Latest Backup
+112afe85653f376c54db789628e32bfa72356d82 6fe8f32a311b1466f8f625e6e64000ff8afb1065 robertocapah <roberto_capah@yahoo.com> 1517914197 +0700	commit (amend): Latest Backup
+6fe8f32a311b1466f8f625e6e64000ff8afb1065 3262c883c8fd2f0c1b80d2e2b9d0d58d43a580ee robertocapah <roberto_capah@yahoo.com> 1517914201 +0700	commit (amend): Latest Backup
+3262c883c8fd2f0c1b80d2e2b9d0d58d43a580ee 01f67a28aaf0ab1eed8c001fb7734ad5785d6608 robertocapah <roberto_capah@yahoo.com> 1517914203 +0700	commit (amend): Latest Backup
+01f67a28aaf0ab1eed8c001fb7734ad5785d6608 74b5215f712986d06ac3276b137b5f3caa62d06a robertocapah <roberto_capah@yahoo.com> 1517914205 +0700	commit (amend): Latest Backup
+74b5215f712986d06ac3276b137b5f3caa62d06a 10673b6f410dc872d033c0e60900b73d176e857e robertocapah <roberto_capah@yahoo.com> 1517914208 +0700	commit (amend): Latest Backup
+10673b6f410dc872d033c0e60900b73d176e857e 6b0ca04a20276480a7e9293bc478301db6af5f41 robertocapah <roberto_capah@yahoo.com> 1517914210 +0700	commit (amend): Latest Backup
+6b0ca04a20276480a7e9293bc478301db6af5f41 3ab71468666815574a4c2fb713156951830d78fd robertocapah <roberto_capah@yahoo.com> 1517914213 +0700	commit (amend): Latest Backup
+3ab71468666815574a4c2fb713156951830d78fd 80d08daf5c7d29b6402c87e465d577ea7a748122 robertocapah <roberto_capah@yahoo.com> 1517914216 +0700	commit (amend): Latest Backup
+80d08daf5c7d29b6402c87e465d577ea7a748122 c7e3763d997217c2816eccea053fb80e1a01b417 robertocapah <roberto_capah@yahoo.com> 1517914219 +0700	commit (amend): Latest Backup
+c7e3763d997217c2816eccea053fb80e1a01b417 d87c58930a86f994f8ac7089ed092b3c57448b9a robertocapah <roberto_capah@yahoo.com> 1517914222 +0700	commit (amend): Latest Backup
+d87c58930a86f994f8ac7089ed092b3c57448b9a c786be9c970c7c572b5bd8dc748c081c9ca097ad robertocapah <roberto_capah@yahoo.com> 1517914226 +0700	commit (amend): Latest Backup
+c786be9c970c7c572b5bd8dc748c081c9ca097ad 4292c6d9d43964cdec05f132c42cf8fa96c4d86d robertocapah <roberto_capah@yahoo.com> 1517914229 +0700	commit (amend): Latest Backup
+4292c6d9d43964cdec05f132c42cf8fa96c4d86d 2462c2d27d4e08be02dff8a5f33d9fb7eee3dd60 robertocapah <roberto_capah@yahoo.com> 1517914233 +0700	commit (amend): Latest Backup
+2462c2d27d4e08be02dff8a5f33d9fb7eee3dd60 7c3225bfe7e0cde52e0a4449def0ccfc9744948f robertocapah <roberto_capah@yahoo.com> 1517914236 +0700	commit (amend): Latest Backup
+7c3225bfe7e0cde52e0a4449def0ccfc9744948f e358986b990a97a3aa0e2ad4e59e732521bf05ff robertocapah <roberto_capah@yahoo.com> 1517914239 +0700	commit (amend): Latest Backup
+e358986b990a97a3aa0e2ad4e59e732521bf05ff 8ed9b2aea9bc87ec12479df42e7c2bed4a247e35 robertocapah <roberto_capah@yahoo.com> 1517914242 +0700	commit (amend): Latest Backup
+8ed9b2aea9bc87ec12479df42e7c2bed4a247e35 073f9d3384dc12ad2c10487cc85517d6da474076 robertocapah <roberto_capah@yahoo.com> 1517914246 +0700	commit (amend): Latest Backup
+073f9d3384dc12ad2c10487cc85517d6da474076 30dff0527f51d34f5d5c3500a7232e6246c7b1ef robertocapah <roberto_capah@yahoo.com> 1517914248 +0700	commit (amend): Latest Backup
