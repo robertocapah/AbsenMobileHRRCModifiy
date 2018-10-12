@@ -10,7 +10,7 @@
     android:paddingLeft="5dp"
     android:paddingRight="5dp"
     android:paddingTop="5dp"
-    tools:context="absenmobilehr.app.kalbenutritionals.RCMobile.Fragment.FragmentAbsen">
+    tools:context="absenmobilehr.app.kalbenutritionals.absenmobilehr.Fragment.FragmentAbsen">
 
 
     <ScrollView

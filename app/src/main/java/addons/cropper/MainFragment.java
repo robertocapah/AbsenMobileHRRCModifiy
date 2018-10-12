@@ -33,12 +33,12 @@ import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import absenmobilehr.app.kalbenutritionals.RCMobile.CropDisplayPicture;
-import absenmobilehr.app.kalbenutritionals.RCMobile.Data.bl.tDisplayPictureBL;
-import absenmobilehr.app.kalbenutritionals.RCMobile.Data.common.clsDisplayPicture;
-import absenmobilehr.app.kalbenutritionals.RCMobile.MainMenu;
-import absenmobilehr.app.kalbenutritionals.RCMobile.R;
-import absenmobilehr.app.kalbenutritionals.RCMobile.clsMainActivity;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.CropDisplayPicture;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.Data.bl.tDisplayPictureBL;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.Data.common.clsDisplayPicture;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.MainMenu;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.R;
+import absenmobilehr.app.kalbenutritionals.absenmobilehr.clsMainActivity;
 
 
 /**

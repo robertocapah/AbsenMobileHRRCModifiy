@@ -29,6 +29,12 @@
             android:orderInCategory="0"
             android:title="Leave"
             app:actionLayout="@layout/menu_counter"/>
+        <item
+            android:id="@+id/testing"
+            android:orderInCategory="0"
+            android:visible="false"
+            android:title="testing"
+            app:actionLayout="@layout/menu_counter"/>
         <!--<item-->
             <!--android:id="@+id/pushData"-->
             <!--android:orderInCategory="0"-->

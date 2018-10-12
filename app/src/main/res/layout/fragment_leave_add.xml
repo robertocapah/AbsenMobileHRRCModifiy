@@ -10,7 +10,7 @@
     android:paddingTop="5dp"
     android:descendantFocusability="beforeDescendants"
     android:focusableInTouchMode="true"
-    tools:context="absenmobilehr.app.kalbenutritionals.RCMobile.Fragment.FragmentLeave" >
+    tools:context="absenmobilehr.app.kalbenutritionals.absenmobilehr.Fragment.FragmentLeave" >
 
     <ScrollView
         android:layout_width="match_parent"

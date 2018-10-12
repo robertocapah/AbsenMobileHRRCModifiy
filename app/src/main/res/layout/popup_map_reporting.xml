@@ -11,7 +11,7 @@
     android:paddingTop="5dp"
     android:descendantFocusability="beforeDescendants"
     android:focusableInTouchMode="true"
-    tools:context="absenmobilehr.app.kalbenutritionals.RCMobile.MainMenu" >
+    tools:context="absenmobilehr.app.kalbenutritionals.absenmobilehr.MainMenu" >
 
     <addons.maps.MyMapFragmentContainer
         android:orientation="vertical"

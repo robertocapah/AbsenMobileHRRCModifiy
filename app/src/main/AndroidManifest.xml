@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="absenmobilehr.app.kalbenutritionals.RCMobile"
+    package="absenmobilehr.app.kalbenutritionals.absenmobilehr"
     android:versionCode="1"
     android:versionName="AND.2016.002"
     tools:overrideLibrary="com.google.android.gms.appindexing">
@@ -54,6 +54,7 @@
         android:icon="@mipmap/ic_hris_kn"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:largeHeap="true"
         android:theme="@style/AppTheme"
         tools:overrideLibrary="com.google.android.gms.appindexing"
         tools:replace="android:icon">
@@ -73,15 +74,15 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
         <activity
-            android:name="absenmobilehr.app.kalbenutritionals.RCMobile.MainMenu"
+            android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.MainMenu"
             android:configChanges="orientation|screenSize"
             android:label="" />
         <activity
-            android:name="absenmobilehr.app.kalbenutritionals.RCMobile.PushData"
+            android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.PushData"
             android:configChanges="orientation|screenSize"
             android:label="" />
         <activity
-            android:name="absenmobilehr.app.kalbenutritionals.RCMobile.Splash"
+            android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.Splash"
             android:theme="@style/Theme.AppCompat.Translucent"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -90,19 +91,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name="absenmobilehr.app.kalbenutritionals.RCMobile.Service.MyTrackingLocationService"
+        <service android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.Service.MyTrackingLocationService"
             android:exported="true">
             <intent-filter>
                 <action android:name=".Service.MyTrackingLocationService" />
             </intent-filter>
         </service>
-        <service android:name="absenmobilehr.app.kalbenutritionals.RCMobile.Service.MyServiceNative">
+        <service android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.Service.MyServiceNative">
             <intent-filter>
                 <action android:name=".Service.MyServiceNative" />
             </intent-filter>
         </service>
         <receiver
-            android:name="absenmobilehr.app.kalbenutritionals.RCMobile.Service.RestartServiceReceiver"
+            android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.Service.RestartServiceReceiver"
             android:enabled="true"
             android:exported="true"
             android:label="RestartServiceWhenStopped">
@@ -111,8 +112,9 @@
             </intent-filter>
         </receiver>
         <activity
-            android:name="absenmobilehr.app.kalbenutritionals.RCMobile.Login"
+            android:name="absenmobilehr.app.kalbenutritionals.absenmobilehr.Login"
             android:label="@string/title_activity_login"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:configChanges="orientation|screenSize"/>
         <meta-data

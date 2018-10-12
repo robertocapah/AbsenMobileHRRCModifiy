@@ -3,9 +3,10 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
         \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
     </string>
+    <string name="medium_lorem_ipsum">Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim</string>
 
-    <string name="app_name">HRIS Mobile KN Region Control</string>
-    <string name="nama_app">HRIS Mobile KN Region Control</string>
+    <string name="app_name">HRIS Mobile KN</string>
+    <string name="nama_app">HRIS Mobile KN</string>
     <string name="tv_progress">0</string>
     <string name="app_noName"></string>
     <string name="title_activity_login">Sign in</string>

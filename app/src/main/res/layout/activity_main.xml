@@ -21,16 +21,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <!--<io.github.yavski.fabspeeddial.FabSpeedDial-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_gravity="bottom|end"-->
-            <!--app:fabGravity="bottom_end"-->
-            <!--app:fabMenu="@menu/menu_main"-->
-            <!--app:miniFabBackgroundTint="#0000FF"-->
-            <!--app:miniFabDrawableTint="#FF0000"-->
-            <!--app:miniFabTitleTextColor="#000000" />-->
-
         </FrameLayout>
 
     </LinearLayout>
