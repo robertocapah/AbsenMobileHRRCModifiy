@@ -100,8 +100,8 @@ public class clsmConfigRepo {
         data7.setTxtName("API_EF");
 
         //local
-        data7.setTxtValue("http://10.171.13.157/APIRCMOBILE/api/");
-        data7.setTxtDefaultValue("http://10.171.13.157/APIRCMOBILE/api/");
+//        data7.setTxtValue("http://10.171.14.1/APIRCMOBILE/api/");
+//        data7.setTxtDefaultValue("http://10.171.14.1/APIRCMOBILE/api/");
 
         //prod
 //        data7.setTxtValue("https://apiabsensi.kalbenutritionals.com/api/");
@@ -110,6 +110,8 @@ public class clsmConfigRepo {
         //testing
 //        data7.setTxtValue("http://apiabsensi.kalbenutritionals.web.id/api/");
 //        data7.setTxtDefaultValue("http://apiabsensi.kalbenutritionals.web.id/api/");
+        data7.setTxtValue("http://10.171.161.101/APIRCMOBILE/api/");
+        data7.setTxtDefaultValue("http://10.171.161.101/APIRCMOBILE/api/");
 
         data7.setIntEditAdmin(1);
         helper.getmConfigDao().createOrUpdate(data7);

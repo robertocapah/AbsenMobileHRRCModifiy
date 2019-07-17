@@ -394,7 +394,7 @@ public class Login extends clsMainActivity {
 
 //        AsyncCallAppVesion task = new AsyncCallAppVesion();
 //        task.execute();
-//        checkVersion();
+//        )checkVersion(;
     }
 
 

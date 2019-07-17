@@ -240,7 +240,7 @@ public class FragmentAbsen extends Fragment implements ConnectionCallbacks, OnCo
                 // Otherwise, set the URL to null.
                 Uri.parse("http://host/path"),
                 // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://absenmobilehr.app.kalbenutritionals.RCMobile/http/host/path")
+                Uri.parse("android-app://absenmobilehr.app.kalbenutritionals.absenmobilehr/http/host/path")
         );
         AppIndex.AppIndexApi.end(client, viewAction);
         client.disconnect();
@@ -795,12 +795,12 @@ public class FragmentAbsen extends Fragment implements ConnectionCallbacks, OnCo
                 if  (longlbl.equals("")||langlbl.equals("")){
                     new clsMainActivity().showCustomToast(context,"Please turn on GPS",false);
                 }else{
-                    myClass = "absenmobilehr.app.kalbenutritionals.RCMobile.MainMenu";
+                    myClass = "absenmobilehr.app.kalbenutritionals.absenmobilehr.MainMenu";
                     ;
                     MenuID = "mnCheckinKBN";
                     clazz = null;
 
-                    myClass = "absenmobilehr.app.kalbenutritionals.RCMobile.MainMenu";
+                    myClass = "absenmobilehr.app.kalbenutritionals.absenmobilehr.MainMenu";
                     MenuID = "mnCheckinKBN";
                     LayoutInflater layoutInflater = LayoutInflater.from(getContext());
                     final View promptView = layoutInflater.inflate(R.layout.confirm_data, null);
@@ -910,7 +910,7 @@ public class FragmentAbsen extends Fragment implements ConnectionCallbacks, OnCo
 
                                                 @Override
                                                 public void onResponse(String response, Boolean status, String strErrorMsg) {
-                                                    if (response != null || !response.equals("false")) {
+                                                    if (response != null && !response.equals("false")) {
                                                         clsAbsenOnline data = new clsAbsenOnline();
                                                         clsLastCheckingData dataCheckin = new clsLastCheckingData();
                                                         if (response.equals("0")){
@@ -1457,7 +1457,7 @@ public class FragmentAbsen extends Fragment implements ConnectionCallbacks, OnCo
                 // Otherwise, set the URL to null.
                 Uri.parse("http://host/path"),
                 // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://absenmobilehr.app.kalbenutritionals.RCMobile/http/host/path")
+                Uri.parse("android-app://absenmobilehr.app.kalbenutritionals.absenmobilehr/http/host/path")
         );
         AppIndex.AppIndexApi.start(client, viewAction);
     }

@@ -109,4 +109,5 @@
     <string name="SKIP">SKIP</string>
     <string name="activity_item">Supporting document</string>
     <string name="verified">Verified</string>
+    <string name="welcome_to_mobile_hris">Welcome to Mobile HRIS</string>
 </resources>

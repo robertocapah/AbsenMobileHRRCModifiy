@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="@dimen/spacing_medium"
-            android:text="Welcome to Mobile HRIS for Region Control"
+            android:text="@string/welcome_to_mobile_hris"
             android:textAlignment="center"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
             android:textColor="@color/green_300"
