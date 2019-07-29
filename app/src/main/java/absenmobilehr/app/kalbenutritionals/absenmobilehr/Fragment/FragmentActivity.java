@@ -452,7 +452,7 @@ public class FragmentActivity extends Fragment {
                                                                 String IntProgramAuditSubActivityId = object.getString("IntProgramAuditSubActivityId");
                                                                 String TxtDescription = object.getString("TxtDescription");
                                                                 listDataActivity.add(TxtDescription);
-                                                                HMActivity.put(TxtDescription,IntProgramAuditSubActivityId);
+                                                                HMActivity.put(TxtDescription,IntSubDetailActivityId);
                                                             }
                                                             SpinnerCustom.setAdapterSpinner(spnActivity, context, R.layout.custom_spinner, listDataActivity);
                                                         }
@@ -645,7 +645,7 @@ public class FragmentActivity extends Fragment {
             et_notes.setText(txtnt);
             int intStatus = user.getIntStatus();
             String dtVerified = "";
-            if (intStatus != 1){
+            if (intStatus != 1 && user.getDtVerified()!=null){
                 dtVerified = outputFormat.format(user.getDtVerified());
             }
             et_status.setText(user.getTxtStatus()+" "+dtVerified);
